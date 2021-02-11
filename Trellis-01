@@ -16,5 +16,6 @@
    "TidP" : "0x28, 0x3A, 0xDD, 0x56, 0xB5, 0x1, 0x3C, 0xF",
    "Tid1" : "0",
    "Tid2" : "0",
-   "Tid3" : "0"
+   "Tid3" : "0",
+   "FrstThm" : "true"
    }
